@@ -1,0 +1,20 @@
+.flag {
+    height: 210px;
+    width: 400px;
+    background-color: aliceblue;
+}
+.b {
+    height: 70px;
+    width: 400px;
+    background-color: #231f20;
+}
+.v {
+    height: 70px;
+    width: 400px;
+    background-color:#ed1b24 ;
+}
+.c { height: 70px;
+    width: 400px;
+    background-color: #fdce62 ;
+
+}
